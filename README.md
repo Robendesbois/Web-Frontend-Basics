@@ -22,5 +22,5 @@
 
   <p>Feedback and contributions are highly appreciated! If you have suggestions for improvement, found a bug, or want to contribute enhancements, please feel free to open an issue or submit a pull request.</p>
   <br>
-  <p>Par : Yasser Benz </p>
+  <p>By : Yasser Benz </p>
 <br>
