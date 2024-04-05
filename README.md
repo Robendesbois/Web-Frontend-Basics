@@ -21,4 +21,6 @@
   <h2>Feedback and Contributions</h2>
 
   <p>Feedback and contributions are highly appreciated! If you have suggestions for improvement, found a bug, or want to contribute enhancements, please feel free to open an issue or submit a pull request.</p>
-  <p>Par : M. Benzerroug Yasser </p>
+  <br>
+  <p>Par : Yasser Benz </p>
+<br>
