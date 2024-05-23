@@ -4,13 +4,13 @@ This project is an advanced web front-end development endeavor that utilizes onl
 
 ## Features
 
-- **Responsive Design**: The web application is designed to adapt seamlessly to various screen sizes and devices, ensuring optimal user experience across desktops, tablets, and mobile phones.
+- **Responsive Design**: The web application is designed to adapt seamlessly to various screen sizes and devices ensuring optimal user experience across desktops, tablets, and mobile phones.
   
-- **Custom CSS Styling**: Utilizing modern CSS techniques, the project showcases innovative styling and layout design, enhancing visual appeal and usability.
+- **Custom CSS Styling**: Utilizing modern CSS techniques, the project showcases innovative styling and layout design enhancing visual appeal and usability.
 
-- **Dynamic Content Rendering**: Leveraging JavaScript, the project dynamically fetches and renders content, providing users with real-time updates and interactive features without needing to reload the page.
+- **Dynamic Content Rendering**: Leveraging JavaScript, the project dynamically fetches and renders content providing users with real-time updates and interactive features without needing to reload the page.
 
-- **Optimized Performance**: Careful attention is paid to optimizing performance, ensuring fast load times and smooth user interactions even with complex animations and transitions.
+- **Optimized Performance**: Careful attention is paid to optimizing performance ensuring fast load times and smooth user interactions even with complex animations and transitions.
 
 - **Cross-Browser Compatibility**: The web application is tested rigorously across different web browsers to ensure consistent functionality and appearance for all users.
 
@@ -28,7 +28,7 @@ Contributions to this project are welcome! If you have ideas for improvements, b
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT [LICENSE](LICENSE).
 
 ## Acknowledgements
 
@@ -36,8 +36,8 @@ Special thanks to all contributors who have helped shape and improve this projec
 
 ## Contact
 
-For any inquiries or feedback regarding the project, feel free to contact the project maintainer at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback regarding the project, feel free to contact the project maintainer at [yasser.benzerroug@univ-bba.dz](mailto:email@example.com).
 
 ---
 
-This project is developed and maintained with passion by [Your Name].
+This project is developed and maintained with passion by Benz Yasser.
