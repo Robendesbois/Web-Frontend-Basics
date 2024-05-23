@@ -1,4 +1,4 @@
-# Advanced Web Front-End Project
+# Advanced Web Front-End Home page
 
 This project is an advanced web front-end development endeavor that utilizes only HTML, CSS, and JavaScript. It aims to demonstrate sophisticated user interface design and interactive features without relying on any external libraries or frameworks.
 
