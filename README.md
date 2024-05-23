@@ -28,7 +28,7 @@ Contributions to this project are welcome! If you have ideas for improvements, b
 
 ## License
 
-This project is licensed under the MIT [LICENSE](LICENSE).
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
@@ -36,7 +36,7 @@ Special thanks to all contributors who have helped shape and improve this projec
 
 ## Contact
 
-For any inquiries or feedback regarding the project, feel free to contact the project maintainer at [yasser.benzerroug@univ-bba.dz](mailto:email@example.com).
+For any inquiries or feedback regarding the project, feel free to contact the project maintainer at yasser.benzerroug@univ-bba.dz
 
 ---
 
