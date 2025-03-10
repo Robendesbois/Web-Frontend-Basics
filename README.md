@@ -36,8 +36,8 @@ Special thanks to all contributors who have helped shape and improve this projec
 
 ## Contact
 
-For any inquiries or feedback regarding the project, feel free to contact the project maintainer at yasser.benzerroug@univ-bba.dz
+For any inquiries or feedback regarding the project, feel free to contact the project maintainer at Anonymouse.algeriac99@gmail.com
 
 ---
 
-This project is developed and maintained with passion by Benz Yasser.
+This project is developed and maintained with passion by Zero BYTE.
